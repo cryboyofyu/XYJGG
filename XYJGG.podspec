@@ -20,6 +20,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/cryboyofyu/XYJGG", :tag => "0.0.1" }
 
   s.source_files  ="XYCustomJGGExample/XYCustomJGGExample/XYJGG/**/*.{h,m}"
+  s.resources = 'XYCustomJGGExample/XYCustomJGGExample/XYTestImgs/*.{.jpg,.png,.jpeg}'  
   s.framework  = 'UIKit'
   s.dependency 'SDWebImage'
 
