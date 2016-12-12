@@ -8,7 +8,7 @@
 
 #import "XYJGGView.h"
 #import "XYConstant.h"
-#import <UIImageView+WebCache.h>
+#import "UIImageView+WebCache.h"
 @implementation XYJGGView
 
 - (instancetype)initWithFrame:(CGRect)xy_frame withXYPhotosDataMArr:(NSMutableArray *)xy_PhotosDataMArr withXYPlaceholderImg:(UIImage *)xy_placeholderImg withBgView:(UIView *)xy_bgView withXYItemViewTapBlock:(xyItemViewTapBlock)xy_itemViewTapBlock{
