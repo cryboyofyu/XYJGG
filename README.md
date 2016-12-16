@@ -1,9 +1,13 @@
 # XYJGG
-自定义图片九宫格（一句代码集成，简单，高效，简单点击回调，自动识别数据源三种格式：UIImage,NSString,URL） ／＊个人邮箱：892569921@qq.com
-   个人博客：http://blog.csdn.net/cry__boy
- 集成 :cocoapods 
- pod 'XYJGG'
-   实现九宫格图片排列，一句代码集成，不懂得或者有问题可以email 哦
+自定义图片九宫格（一句代码集成，简单，高效，简单点击回调，自动识别数据源三种格式：UIImage,NSString,URL) 
+===
+ <br>／＊个人邮箱：892569921@qq.com<br/>
+ ___
+    个人博客：http://blog.csdn.net/cry__boy
+    ___
+  ###集成 :cocoapods 
+  ### pod 'XYJGG'
+   <br>实现九宫格图片排列，一句代码集成，不懂得或者有问题可以email 哦<br/>
    1.使用方法
    需要有  ‘SDWebImage’这个库，如果项目中已经有了，不必再加，如果没有上就好，其他不用管。
    XYJGGView * xyJGGView = [[XYJGGView alloc]initWithFrame:CGRectMake(XY_Padding, 0, XY_Width - XY_Padding*2, 100) withXYPhotosDataMArr:xyPhotosDataMArr withXYPlaceholderImg:[UIImage imageNamed:@"girl2.jpg"] withBgView:xyCell.contentView withXYItemViewTapBlock:^(UIView *xyItemView, NSMutableArray *xyPhotosDataMArr) {
