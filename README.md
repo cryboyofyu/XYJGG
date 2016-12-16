@@ -2,7 +2,8 @@
 自定义图片九宫格（一句代码集成，简单，高效，简单点击回调，自动识别数据源三种格式：UIImage,NSString,URL）
 ／＊个人邮箱：892569921@qq.com
    个人博客：http://blog.csdn.net/cry__boy
-   
+ 集成 :cocoapods 
+ pod 'XYJGG'
    实现九宫格图片排列，一句代码集成，不懂得或者有问题可以email 哦
    1.使用方法
    需要有  ‘SDWebImage’这个库，如果项目中已经有了，不必再加，如果没有上就好，其他不用管。
