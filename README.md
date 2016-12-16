@@ -2,8 +2,8 @@
 自定义图片九宫格（一句代码集成，简单，高效，简单点击回调，自动识别数据源三种格式：UIImage,NSString,URL) 
 ===
  <br>*个人邮箱：892569921@qq.com*
- ___http://blog.csdn.net/cry__boy
- [个人博客](http://blog.csdn.net/cry__boy"悬停现实")<br/>
+ ___
+ [个人博客](http://blog.csdn.net/cry__boy"悬停现实"):http://blog.csdn.net/cry__boy<br/>
     ___
  <br> 集成 :cocoapods <br/>
   <br> pod 'XYJGG'<br/>
