@@ -3,7 +3,7 @@
 ===
  <br>*个人邮箱：892569921@qq.com*
  ___http://blog.csdn.net/cry__boy
- 个人博客：(http://blog.csdn.net/cry__boy"悬停现实")<br/>
+ [个人博客](http://blog.csdn.net/cry__boy"悬停现实")<br/>
     ___
  <br> 集成 :cocoapods <br/>
   <br> pod 'XYJGG'<br/>
