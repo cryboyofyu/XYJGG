@@ -11,9 +11,7 @@
    <br>实现九宫格图片排列，一句代码集成，不懂得或者有问题可以email 哦<br/>
    <br>`1.使用方法`<br/>
    <br>依赖库:‘SDWebImage’<br/>
-    ---
-
-   ``` objective-c
+   ``` 
    XYJGGView * xyJGGView = [[XYJGGView alloc]initWithFrame:CGRectMake(XY_Padding, 0, XY_Width - XY_Padding*2, 100) withXYPhotosDataMArr:xyPhotosDataMArr withXYPlaceholderImg:[UIImage imageNamed:@"girl2.jpg"] withBgView:xyCell.contentView withXYItemViewTapBlock:^(UIView *xyItemView, NSMutableArray *xyPhotosDataMArr) {
         //这里是点击图片的回调事件，返回了点击该图片的对象，和该图片所在的图片数据源数组
       NSLog(@"点击了第:%ld张图片,图片所在数据数组:%@",xyItemView.tag+1,xyPhotosDataMArr);
