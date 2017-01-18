@@ -45,7 +45,7 @@
             NSMutableArray * xyPhotosDataMArr = [[NSMutableArray alloc]init];
 
             for(int i=0;i<4;i++){
-//                [xyPhotosDataMArr addObject:@"http://desk.fd.zol-img.com.cn/t_s960x600c5/g4/M00/0D/01/Cg-4y1ULoXCII6fEAAeQFx3fsKgAAXCmAPjugYAB5Av166.jpg"];
+                [xyPhotosDataMArr addObject:@"http://desk.fd.zol-img.com.cn/t_s960x600c5/g4/M00/0D/01/Cg-4y1ULoXCII6fEAAeQFx3fsKgAAXCmAPjugYAB5Av166.jpg"];
 
             }
             [_xyDataMArr addObject:xyPhotosDataMArr];
@@ -55,7 +55,7 @@
             NSMutableArray * xyPhotosDataMArr = [[NSMutableArray alloc]init];
 
             for(int i=0;i<6;i++){
-//                [xyPhotosDataMArr addObject:[NSURL URLWithString:@"http://d.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=5e1addbab4fb43161a4a727e15946a15/72f082025aafa40f288c73acad64034f78f0197c.jpg"]];
+                [xyPhotosDataMArr addObject:[NSURL URLWithString:@"http://d.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=5e1addbab4fb43161a4a727e15946a15/72f082025aafa40f288c73acad64034f78f0197c.jpg"]];
             }
             [_xyDataMArr addObject:xyPhotosDataMArr];
 
@@ -74,7 +74,7 @@
             NSMutableArray * xyPhotosDataMArr = [[NSMutableArray alloc]init];
             
             for(int i=0;i<1;i++){
-//                [xyPhotosDataMArr addObject:@"http://desk.fd.zol-img.com.cn/t_s960x600c5/g4/M00/0D/01/Cg-4y1ULoXCII6fEAAeQFx3fsKgAAXCmAPjugYAB5Av166.jpg"];
+                [xyPhotosDataMArr addObject:@"http://desk.fd.zol-img.com.cn/t_s960x600c5/g4/M00/0D/01/Cg-4y1ULoXCII6fEAAeQFx3fsKgAAXCmAPjugYAB5Av166.jpg"];
                 
             }
             [_xyDataMArr addObject:xyPhotosDataMArr];
@@ -84,7 +84,7 @@
             NSMutableArray * xyPhotosDataMArr = [[NSMutableArray alloc]init];
             
             for(int i=0;i<6;i++){
-//                [xyPhotosDataMArr addObject:@"http://desk.fd.zol-img.com.cn/t_s960x600c5/g4/M00/0D/01/Cg-4y1ULoXCII6fEAAeQFx3fsKgAAXCmAPjugYAB5Av166.jpg"];
+                [xyPhotosDataMArr addObject:@"http://desk.fd.zol-img.com.cn/t_s960x600c5/g4/M00/0D/01/Cg-4y1ULoXCII6fEAAeQFx3fsKgAAXCmAPjugYAB5Av166.jpg"];
                 
             }
             [_xyDataMArr addObject:xyPhotosDataMArr];
@@ -94,7 +94,7 @@
             NSMutableArray * xyPhotosDataMArr = [[NSMutableArray alloc]init];
             
             for(int i=0;i<2;i++){
-//                [xyPhotosDataMArr addObject:[NSURL URLWithString:@"http://d.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=5e1addbab4fb43161a4a727e15946a15/72f082025aafa40f288c73acad64034f78f0197c.jpg"]];
+                [xyPhotosDataMArr addObject:[NSURL URLWithString:@"http://d.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=5e1addbab4fb43161a4a727e15946a15/72f082025aafa40f288c73acad64034f78f0197c.jpg"]];
             }
             [_xyDataMArr addObject:xyPhotosDataMArr];
             
@@ -113,7 +113,7 @@
             NSMutableArray * xyPhotosDataMArr = [[NSMutableArray alloc]init];
             
             for(int i=0;i<1;i++){
-//                [xyPhotosDataMArr addObject:@"http://desk.fd.zol-img.com.cn/t_s960x600c5/g4/M00/0D/01/Cg-4y1ULoXCII6fEAAeQFx3fsKgAAXCmAPjugYAB5Av166.jpg"];
+                [xyPhotosDataMArr addObject:@"http://desk.fd.zol-img.com.cn/t_s960x600c5/g4/M00/0D/01/Cg-4y1ULoXCII6fEAAeQFx3fsKgAAXCmAPjugYAB5Av166.jpg"];
                 
             }
             [_xyDataMArr addObject:xyPhotosDataMArr];
@@ -123,7 +123,7 @@
             NSMutableArray * xyPhotosDataMArr = [[NSMutableArray alloc]init];
             
             for(int i=0;i<1;i++){
-//                [xyPhotosDataMArr addObject:[NSURL URLWithString:@"http://d.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=5e1addbab4fb43161a4a727e15946a15/72f082025aafa40f288c73acad64034f78f0197c.jpg"]];
+                [xyPhotosDataMArr addObject:[NSURL URLWithString:@"http://d.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=5e1addbab4fb43161a4a727e15946a15/72f082025aafa40f288c73acad64034f78f0197c.jpg"]];
             }
             [_xyDataMArr addObject:xyPhotosDataMArr];
             
