@@ -1,7 +1,7 @@
 # XYJGG
 自定义图片九宫格（一句代码集成，简单，高效，简单点击回调，自动识别数据源三种格式：UIImage,NSString,URL) 
 ===
- <br>*个人邮箱：892569921@qq.com*[个人博客](http://blog.csdn.net/cry__boy"悬停显示"):http://blog.csdn.net/cry__boy</br>
+ <br>*个人邮箱：892569921@qq.com*,[个人博客](http://blog.csdn.net/cry__boy"悬停显示"):http://blog.csdn.net/cry__boy</br>
  <br>[github](http://github.com/cryboyofyu"):http://github.com/cryboyofyu</br>
  <br>QQ技术群:549943887</br>
  ____
@@ -21,6 +21,7 @@
       NSLog(@"点击了第:%ld张图片,图片所在数据数组:%@",xyItemView.tag+1,xyPhotosDataMArr);
     }];
     ```
+    
     <br>`2.调整图片大小`<br>
 在 XYConstant.h 文件中分别定义了 一张图片，四张图片的，默认图片的样式，需要调整的时候直接改宏就好，如果需要更多样式，发邮件给我，小弟继续更新。
 
